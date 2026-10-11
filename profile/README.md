@@ -38,10 +38,14 @@ Explore our [Lab website](https://www1.coe.neu.edu/~handanliu) for related proje
 
 ## 👥 Team Members
 
-*   **Lab Lead:** Dr. Handan Liu
-*   **Master / Undergraduate Researchers:** 
-    *   
-    *   
+*   **Lab Lead:**
+    Dr. Handan Liu <br>
+    Software Engineering and Information Systems, Northeastern University
+    [Faculty Profile](https://coe.northeastern.edu/people/liu-handan/)
+    
+*   **Research Members** <br>
+    Meet our current research members and collaborators on the [People page](https://www1.coe.neu.edu/~handanliu/people).
+       
 
 ---
 

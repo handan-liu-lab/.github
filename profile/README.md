@@ -1,12 +1,29 @@
 # Handan Liu's Lab (Scalable AI & Efficient LLMs) 🚀
 
-Welcome to the official GitHub organization of Dr. Handan Liu's Research Group. Our research sits at the intersection of **High-Performance Computing (HPC)**, **Distributed Machine Learning (DML)**, and **Efficient Large Language Models (LLMs)**. We focus on building scalable systems and algorithmic innovations to make next-generation AI systems more efficient, accessible, and powerful.
+Welcome to the official GitHub organization of the **Handan Liu AI Research Lab** at Northeastern University.
+
+Our research focuses on **Scalable AI Systems**, **Efficient Large Language Models**, and **Agentic & Applied AI**. We bring together high-performance computing, parallel computing, and AI algorithm and system design to improve computational efficiency, scalability, and model capabilities.
+
+Here we share code and research resources from our lab’s projects.
+
+Learn more about our research, publications, and team on our [Lab website](https://www1.coe.neu.edu/~handanliu).
 
 ## 🔬 Research Thrusts
 
-- **Scalable AI Systems & Infrastructure**: Designing next-generation distributed systems, parallel training/inference strategies (Data, Pipeline, Tensor, and Expert Parallelism), and memory-efficient architectures.
-- **Efficient Large Language Models**: Innovations in LLM quantization, sparsification, distillation, and high-throughput serving systems.
-- **HPC for Machine Learning**: Accelerating deep learning workloads via hardware-software co-design, customized CUDA kernels, and communication-efficient collective primitives.
+- **Scalable AI Systems**  
+  High-performance and parallel computing for efficient AI workflows, including parallel data processing and multi-GPU training and inference.
+
+- **Efficient Large Language Models**  
+  Parameter-efficient fine-tuning, preference alignment, quantization, adaptive computation, and KV cache optimization.
+
+- **Agentic AI Systems**  
+  Agent architectures and workflows, tool use, memory and context management, and efficient LLM agent serving.
+
+- **Multimodal & Applied AI**  
+  Computer vision, gaze-guided learning, behavior recognition, controllable music generation, and domain-specific AI applications.
+
+Explore our [Lab website](https://www1.coe.neu.edu/~handanliu) for related projects and publications.
+
 
 ---
 
@@ -21,7 +38,7 @@ Welcome to the official GitHub organization of Dr. Handan Liu's Research Group. 
 
 ## 👥 Team Members
 
-*   **Principal Investigator:** Dr. Handan Liu
+*   **Lab Lead:** Dr. Handan Liu
 *   **Master / Undergraduate Researchers:** 
     *   
     *   
